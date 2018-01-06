@@ -308,3 +308,21 @@ footer {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
+.rabatt{
+  margin-top: 10% !important;
+}
+
+.iconcolor{
+  color: #000000;
+}
+
+.iconcolor:hover{
+  color: white;
+}
+
+.team-img{
+  max-width: 35%;
+  height: auto;
+  margin-bottom: 10px;
+}
