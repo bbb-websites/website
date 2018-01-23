@@ -146,7 +146,16 @@ header.masthead {
           font-size: 50px; }
       header.masthead .device-container {
         max-width: 325px; } }
-
+header.impressum{
+  height: 30vh;
+  min-height: 0px;
+}
+.mx-impressum{
+  margin-left: 0px !important;
+}
+.my-auto-impressum{
+  margin-bottom: 5px !important;
+}
 section.download {
   position: relative;
   padding: 10 0px 0; }
